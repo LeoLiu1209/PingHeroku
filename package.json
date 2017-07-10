@@ -1,0 +1,15 @@
+{
+  "name": "ping heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hitHeroku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leoliu",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
+  }
+}
