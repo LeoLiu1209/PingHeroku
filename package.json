@@ -1,11 +1,8 @@
 {
-  "name": "ping heroku",
+  "name": "scheduleheroku",
   "version": "1.0.0",
-  "description": "",
+  "description": "moment and request are needed",
   "main": "hitHeroku.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "leoliu",
   "license": "ISC",
   "dependencies": {
